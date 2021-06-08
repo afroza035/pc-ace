@@ -17,7 +17,7 @@ Fontawesome
 
 Core Functionalities
 
-1. Home Pag: 1section.
+1. Home Page: 1section.
 2. Products: (View Item, Add To Cart)
 3. Cart: (Quantity, Delete Product, Cart Summery, Proceed to checkout)
 
